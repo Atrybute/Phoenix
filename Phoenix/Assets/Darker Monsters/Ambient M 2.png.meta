@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 62598f61c90e6994a852480ed6feb64f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8465194604300790787
+    second: Ambient M 2_0
+  - first:
+      213: -1404152423551344786
+    second: Ambient M 2_1
+  - first:
+      213: -2114392858812712161
+    second: Ambient M 2_2
+  - first:
+      213: -5930431714084959125
+    second: Ambient M 2_3
+  - first:
+      213: 1317032759299360803
+    second: Ambient M 2_4
+  - first:
+      213: 5076766080586910806
+    second: Ambient M 2_5
+  - first:
+      213: -7396766515668948693
+    second: Ambient M 2_6
+  - first:
+      213: 8328132605650514767
+    second: Ambient M 2_7
+  - first:
+      213: 1758785246472973436
+    second: Ambient M 2_8
+  - first:
+      213: 1679989669345387084
+    second: Ambient M 2_9
+  - first:
+      213: 7730567791285635089
+    second: Ambient M 2_10
+  - first:
+      213: 5631688522810883610
+    second: Ambient M 2_11
+  - first:
+      213: -5029276681864997223
+    second: Ambient M 2_12
+  - first:
+      213: -8040823125817034050
+    second: Ambient M 2_13
+  - first:
+      213: -49046615724984952
+    second: Ambient M 2_14
+  - first:
+      213: -4565783317256142852
+    second: Ambient M 2_15
+  - first:
+      213: 543676574974763746
+    second: Ambient M 2_16
+  - first:
+      213: 6677667324230235105
+    second: Ambient M 2_17
+  - first:
+      213: -4458435713798275490
+    second: Ambient M 2_18
+  - first:
+      213: -9019633061599211231
+    second: Ambient M 2_19
+  - first:
+      213: -7665364694409658940
+    second: Ambient M 2_20
+  - first:
+      213: -3147837200459400780
+    second: Ambient M 2_21
+  - first:
+      213: -1633582000432329372
+    second: Ambient M 2_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ambient M 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 905
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df31910ab56958a80800000000000000
+      internalID: -8465194604300790787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_1
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 662
+        width: 398
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fd7bf6fc2738ce0800000000000000
+      internalID: -1404152423551344786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 427
+        width: 336
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b78deb5ea28a2e0800000000000000
+      internalID: -2114392858812712161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_3
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 311
+        width: 104
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c414dd6cfd2bda0800000000000000
+      internalID: -5930431714084959125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_4
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 326
+        width: 87
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328479f015a074210800000000000000
+      internalID: 1317032759299360803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 69
+        width: 33
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c82293adb447640800000000000000
+      internalID: 5076766080586910806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 122
+        width: 32
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b296c033b08695990800000000000000
+      internalID: -7396766515668948693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 141
+        width: 12
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43b5220b78739370800000000000000
+      internalID: 8328132605650514767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 70
+        width: 43
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c283cfcd5786810800000000000000
+      internalID: 1758785246472973436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 138
+        width: 24
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4268ab04b5805710800000000000000
+      internalID: 1679989669345387084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_10
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 129
+        width: 20
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11808a7a27e784b60800000000000000
+      internalID: 7730567791285635089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_11
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 150
+        width: 15
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e79cf9fd6c72e40800000000000000
+      internalID: 5631688522810883610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_12
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 119
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996184c018b643ab0800000000000000
+      internalID: -5029276681864997223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 139
+        width: 23
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebafdeb18f1496090800000000000000
+      internalID: -8040823125817034050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_14
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 99
+        width: 27
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885f644ec50c15ff0800000000000000
+      internalID: -49046615724984952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_15
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 90
+        width: 36
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfffa85734413a0c0800000000000000
+      internalID: -4565783317256142852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_16
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 99
+        width: 22
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e26214e6f68b8700800000000000000
+      internalID: 543676574974763746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_17
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 91
+        width: 33
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3f9f43d07dbac50800000000000000
+      internalID: 6677667324230235105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_18
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 119
+        width: 19
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e732117547022c0800000000000000
+      internalID: -4458435713798275490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_19
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 110
+        width: 28
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121920fb483d3d280800000000000000
+      internalID: -9019633061599211231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_20
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 27
+        width: 53
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd34eb5c672f9590800000000000000
+      internalID: -7665364694409658940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_21
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 113
+        width: 46
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b97bdf7eb2a054d0800000000000000
+      internalID: -3147837200459400780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient M 2_22
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 125
+        width: 40
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d42c063d95459e0800000000000000
+      internalID: -1633582000432329372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

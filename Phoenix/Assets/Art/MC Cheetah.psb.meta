@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: bec35c3395f9ead4b902af7c798d5806
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 190
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Cheetah Armour
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 403
+      y: 113
+      width: 80
+      height: 63
+    spriteID: 963b5b3442c3395409532387ca4c6a59
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 198, y: -221}
+  - name: Cheetah Shldr R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 403
+      y: 184
+      width: 47
+      height: 63
+    spriteID: c8ef007c3d6c7454d9fbcc430ec6e685
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 233, y: -167}
+  - name: Cheetah Gntlt R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 403
+      y: 4
+      width: 61
+      height: 101
+    spriteID: 16b5aabf63e28ca429769d72d3af15e5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 278, y: -220}
+  - name: Cheetah Gntlt L
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 288
+      width: 72
+      height: 91
+    spriteID: fdbc389a53f985848a2d551750309546
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 14, y: 69}
+  - name: Loin
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 319
+      width: 105
+      height: 144
+    spriteID: feac155d52fe075449f6c28aa5153881
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -38, y: 131}
+  - name: Cheetah Leg L
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 4
+      width: 92
+      height: 148
+    spriteID: ebc271c162b425c419e49166eeecfc89
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 59, y: 1}
+  - name: Cheetah Leg R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 133
+      height: 447
+    spriteID: 5940c52e04f67c04c8980f2d650fafca
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -158, y: -1}
+  - name: leg R top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 160
+      width: 74
+      height: 120
+    spriteID: 63732656f784bb94d910bc920b6d6c93
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 118, y: -29}
+  - name: Leg L top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 387
+      width: 53
+      height: 117
+    spriteID: 1fb4858fb76af214d8c06002bfc49b95
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 57, y: 200}
+  - name: Hair tats
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 177
+      width: 144
+      height: 134
+    spriteID: 19779dccd6c41c84d8cbe16274f24291
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 13, y: -263}
+  - name: Face
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 4
+      width: 150
+      height: 165
+    spriteID: ff0c9cc6fd86c8e409271e6452bf294e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 18, y: -410}
+  - name: Cheetah Shldr L
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 403
+      y: 255
+      width: 42
+      height: 66
+    spriteID: 8d3dcb601b693b845aa20ee94ca51fab
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 153, y: -91}
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 512
+  importedTextureHeight: 512
+  documentSize: {x: 475, y: 591}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 512
+  textureActualHeight: 512
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Cheetah Armour
+    spriteName: Cheetah Armour
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 963b5b3442c3395409532387ca4c6a59
+    layerID: 13
+    mosaicPosition: {x: 403, y: 113}
+  - name: Cheetah Shldr R
+    spriteName: Cheetah Shldr R
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c8ef007c3d6c7454d9fbcc430ec6e685
+    layerID: 12
+    mosaicPosition: {x: 403, y: 184}
+  - name: Cheetah Gntlt R
+    spriteName: Cheetah Gntlt R
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 16b5aabf63e28ca429769d72d3af15e5
+    layerID: 11
+    mosaicPosition: {x: 403, y: 4}
+  - name: Cheetah Gntlt L
+    spriteName: Cheetah Gntlt L
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fdbc389a53f985848a2d551750309546
+    layerID: 10
+    mosaicPosition: {x: 303, y: 288}
+  - name: Loin
+    spriteName: Loin
+    isGroup: 0
+    parentIndex: -1
+    spriteID: feac155d52fe075449f6c28aa5153881
+    layerID: 9
+    mosaicPosition: {x: 145, y: 319}
+  - name: Cheetah Leg L
+    spriteName: Cheetah Leg L
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ebc271c162b425c419e49166eeecfc89
+    layerID: 8
+    mosaicPosition: {x: 303, y: 4}
+  - name: Cheetah Leg R
+    spriteName: Cheetah Leg R
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5940c52e04f67c04c8980f2d650fafca
+    layerID: 7
+    mosaicPosition: {x: 4, y: 4}
+  - name: leg R top
+    spriteName: leg R top
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 63732656f784bb94d910bc920b6d6c93
+    layerID: 6
+    mosaicPosition: {x: 303, y: 160}
+  - name: Leg L top
+    spriteName: Leg L top
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1fb4858fb76af214d8c06002bfc49b95
+    layerID: 5
+    mosaicPosition: {x: 303, y: 387}
+  - name: Hair tats
+    spriteName: Hair tats
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 19779dccd6c41c84d8cbe16274f24291
+    layerID: 4
+    mosaicPosition: {x: 145, y: 177}
+  - name: Face
+    spriteName: Face
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ff0c9cc6fd86c8e409271e6452bf294e
+    layerID: 3
+    mosaicPosition: {x: 145, y: 4}
+  - name: Cheetah Shldr L
+    spriteName: Cheetah Shldr L
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8d3dcb601b693b845aa20ee94ca51fab
+    layerID: 2
+    mosaicPosition: {x: 403, y: 255}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: MC Cheetah Texture
+  prefabAssetName: MC Cheetah Prefab
+  spriteLibAssetName: MC Cheetah Sprite Lib
+  secondarySpriteTextures: []
