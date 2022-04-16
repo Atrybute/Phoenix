@@ -3270,7 +3270,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Texture2DMaterialSlot",
     "m_ObjectId": "55679e32ffa1462caff5e2976b76c27d",
     "m_Id": 0,
-    "m_DisplayName": "RenderTex",
+    "m_DisplayName": "MainTex",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
