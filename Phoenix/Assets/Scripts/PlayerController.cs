@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
-{
+{   
     public static float movementSpeed;
     public float jumpForce;
     //public float jumpForce;
