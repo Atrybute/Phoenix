@@ -69054,7 +69054,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 364cc13204232d34faa48fe3bb9c63ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fireArmor1: {fileID: 3080104642988114097}
+  fireArmor1: {fileID: 3080104643777712040}
   fireArmor2: {fileID: 3080104643116530341}
   fireArmor3: {fileID: 3080104644408202316}
   fireArmor4: {fileID: 3080104643959483644}
@@ -69124,7 +69124,6 @@ MonoBehaviour:
   flowerC: 0
   canjump: 0
   isjumping: 0
-  playerAnimator: {fileID: 3080104643593666046}
   flowerMcg: {fileID: 907365135}
   LightMcg: {fileID: 2137781836}
   FireMcg: {fileID: 553150105}
@@ -71913,7 +71912,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3787389560426120034, guid: 79479b5819da259499cf3b9dad5673b5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -180.924
+      value: -181.053
       objectReference: {fileID: 0}
     - target: {fileID: 4075567736903205122, guid: 79479b5819da259499cf3b9dad5673b5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -71985,7 +71984,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6014529478569762154, guid: 79479b5819da259499cf3b9dad5673b5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -9.059
+      value: -14.894
       objectReference: {fileID: 0}
     - target: {fileID: 6095899386667412465, guid: 79479b5819da259499cf3b9dad5673b5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -80501,7 +80500,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 181955900}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.001}
 --- !u!1 &3080104644152972694
 GameObject:
   m_ObjectHideFlags: 0

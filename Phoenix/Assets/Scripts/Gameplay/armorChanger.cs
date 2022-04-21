@@ -4,10 +4,16 @@ using UnityEngine;
 
 public class armorChanger : MonoBehaviour
 {
+    [Header("Armor Containers")]
     public GameObject fireArmor1, fireArmor2, fireArmor3, fireArmor4, fireArmor5, fireArmor6, fireArmor7, fireArmor8, fireArmor9, fireArmor10, fireArmor11, fireArmor12, fireArmor13, fireArmor14, fireArmor15, fireArmor16;
     public GameObject stoneArmor1, stoneArmor2, stoneArmor3, stoneArmor4,stoneArmor5, stoneArmor6, stoneArmor7, stoneArmor8, stoneArmor9, stoneArmor10, stoneArmor11, stoneArmor12, stoneArmor13;
     public GameObject lightningArmor1, lightningArmor2, lightningArmor3, lightningArmor4, lightningArmor5, lightningArmor6, lightningArmor7, lightningArmor8, lightningArmor9, lightningArmor10, lightningArmor11, lightningArmor12; /*lightningArmor12, lightningArmor13*/ //parent armor asset
     public GameObject default1, default2, default3, default4, default5;
+
+   /* public List<GameObject> fireArmorList;
+    public List<GameObject> stoneArmorList;
+    public List<GameObject> lightningArmorList;
+    public List<GameObject> defaultList;*/
 
     public GameObject stonecube, firecube, lightcube; //pickup location
 
@@ -15,6 +21,10 @@ public class armorChanger : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        /*for(int i=0; i<defaultList.Count; i++)
+        {
+            defaultList[i].SetActive(true);
+        }*/
         default1.SetActive(true);
         default2.SetActive(true);
         default3.SetActive(true);
@@ -32,6 +42,30 @@ public class armorChanger : MonoBehaviour
     {
         if (collision.tag == "Stonearmor")
         {
+            /*for(int i =0; i<stoneArmorList.Count;i++)
+            {
+                stoneArmorList[i].SetActive(true);
+            }*/
+
+            /*for(int j =0; j<stoneArmorList.Count;j++)
+            {
+                lightningArmorList[j].SetActive(false);
+            }*/
+
+            /*for(int k =0; k< fireArmorList.Count;k++)
+            {
+                fireArmorList[k].SetActive(false);
+            }*/
+
+            /*for(int l =0;l<lightningArmorList.Count;l++)
+           {
+               lightningArmorList[l].SetActive(false);
+           }*/
+
+            /*for(int m=0; m<defaultList.Count; m++)
+            {
+                defaultList[m].SetActive(false);
+            }*/
             stoneArmor1.SetActive(true);
             stoneArmor2.SetActive(true);
             stoneArmor3.SetActive(true);
@@ -94,6 +128,31 @@ public class armorChanger : MonoBehaviour
 
         if (collision.tag == "Lightningarmor")
         {
+
+            /*for(int i =0; i<stoneArmorList.Count;i++)
+            {
+                stoneArmorList[i].SetActive(false);
+            }*/
+
+            /*for(int j =0; j<stoneArmorList.Count;j++)
+            {
+                lightningArmorList[j].SetActive(false);
+            }*/
+
+            /*for(int k =0; k< fireArmorList.Count;k++)
+            {
+                fireArmorList[k].SetActive(false);
+            }*/
+
+            /*for(int l =0;l<lightningArmorList.Count;l++)
+            {
+                lightningArmorList[l].SetActive(true);
+            }*/
+
+            /*for(int m=0; m<defaultList.Count; m++)
+            {
+                defaultList[m].SetActive(false);
+            }*/
             stoneArmor1.SetActive(false);
             stoneArmor2.SetActive(false);
             stoneArmor3.SetActive(false);
@@ -154,6 +213,31 @@ public class armorChanger : MonoBehaviour
 
         if (collision.tag == "Firearmor")
         {
+
+            /*for(int i =0; i<stoneArmorList.Count;i++)
+           {
+               stoneArmorList[i].SetActive(false);
+           }*/
+
+            /*for(int j =0; j<stoneArmorList.Count;j++)
+            {
+                lightningArmorList[j].SetActive(false);
+            }*/
+
+            /*for(int k =0; k< fireArmorList.Count;k++)
+            {
+                fireArmorList[k].SetActive(true);
+            }*/
+
+            /*for(int l =0;l<lightningArmorList.Count;l++)
+            {
+                lightningArmorList[l].SetActive(false);
+            }*/
+
+            /*for(int m=0; m<defaultList.Count; m++)
+            {
+                defaultList[m].SetActive(false);
+            }*/
             stoneArmor1.SetActive(false);
             stoneArmor2.SetActive(false);
             stoneArmor3.SetActive(false);

@@ -15,13 +15,11 @@ public class PlayerController : MonoBehaviour
     public bool flowerC;
     public bool canjump,isjumping;
 
-    public Animator playerAnimator;
-
-    [Header("Reference GameObjects")]
+    [Header("References")]
     public GameObject flowerMcg, LightMcg, FireMcg;
     public GameObject lava, water, lightenig, phoenix;
     public GameObject sprint, jumpEF;
-    
+    private Animator playerAnimator;
 
     [Header("Controller Keys")]
     public KeyCode jumpP;
@@ -35,7 +33,8 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
-        rb2d = this.gameObject.GetComponent<Rigidbody2D>();
+        rb2d = GetComponent<Rigidbody2D>();
+        playerAnimator = GetComponent<Animator>();
         characterscale = transform.localScale;
         movementSpeed = 6;
         fireC = false;
@@ -161,6 +160,7 @@ public class PlayerController : MonoBehaviour
             playerAnimator.SetBool("Descending", false);
         }
     }
+
     public void canjumpagain()
     {
         canjump = true;
